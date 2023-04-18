@@ -1,7 +1,8 @@
 # Herzlich Willkommen! 👋
 
-## Some sexy facts about me:
+## ⚡ Some sexy facts about me:
 * Speak 3 languages: Russian (Native), English (B1), German (A1)
+* I love programming in C# and use it whenever I can
 
 That's enougth, isn't it?
 
