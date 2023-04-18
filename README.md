@@ -2,7 +2,8 @@
 
 ## ⚡ Some sexy facts about me:
 * Speak 3 languages: Russian (Native), English (B1), German (A1)
-* I love programming in C# and use it whenever I can
+* Love programming in C# and use it whenever I can
+* Dunno which branch of development to go (perhaps you can involve me in something :) )
 
 That's enougth, isn't it?
 
@@ -11,17 +12,3 @@ That's enougth, isn't it?
 * C#
 * Python
 * Django
-<!--
-**Kohaikaa/Kohaikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
