@@ -10,5 +10,3 @@ That's enougth, isn't it?
 ## 🌱 I’m currently learning these things:
 * JavaScript & TypeScript
 * C#
-* Python
-* Django
