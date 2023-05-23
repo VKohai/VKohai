@@ -11,7 +11,7 @@ That's enougth, isn't it?
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kohaikaa)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Kohaikaa)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Kohaikaa)
-[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
 
 ## 🌱 I’m currently learning these things:
 * JavaScript & TypeScript
