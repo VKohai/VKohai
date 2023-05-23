@@ -7,6 +7,10 @@
 
 That's enougth, isn't it?
 
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kohaikaa)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Kohaikaa)
+
 ## 🌱 I’m currently learning these things:
 * JavaScript & TypeScript
 * C#
