@@ -1,19 +1,14 @@
 # Herzlich Willkommen! 👋
 
-## ⚡ Some sexy facts about me:
-* Speak 3 languages: Russian (Native), English (B1), German (A1)
-* Love programming in C# and use it whenever I can
-* Dunno which branch of development to go (perhaps you can involve me in something :) )
-
-That's enougth, isn't it?
-
-## Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kohaikaa)
+## I Speak 7 Languages
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Kohaikaa)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Kohaikaa)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Kohaikaa)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Kohaikaa)
+
+[![Russian](https://img.shields.io/badge/russian%20(Native)-black?style=for-the-badge&logo=russian)](https://github.com/Kohaikaa)
+[![English](https://img.shields.io/badge/english%20(B1)-black?style=for-the-badge&logo=english)](https://github.com/Kohaikaa)
+[![German](https://img.shields.io/badge/german%20(A1)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 🌱 I’m currently learning these things:
-* JavaScript & TypeScript
-* C#
+* React JS
