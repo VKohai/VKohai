@@ -8,7 +8,7 @@
 
 [![Russian](https://img.shields.io/badge/russian%20(Native)-black?style=for-the-badge&logo=russian)](https://github.com/Kohaikaa)
 [![English](https://img.shields.io/badge/english%20(B1)-black?style=for-the-badge&logo=english)](https://github.com/Kohaikaa)
-[![German](https://img.shields.io/badge/german%20(A1)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
+[![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 「 🌱 I’m currently learning these things: 」
 * React JS
