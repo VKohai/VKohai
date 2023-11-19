@@ -11,4 +11,7 @@
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 「 🌱 I’m currently learning these things: 」
-* React JS
+* Domain Driven Design (DDD)
+* Clean Architecture
+* CQRS Pattern
+* Dapper microORM
