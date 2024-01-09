@@ -16,6 +16,5 @@
 * CQRS Pattern
 * Dapper microORM
 
-##「 LeetCode stats 」
-
+## 「 LeetCode Stats 」
 [![Kohaikaa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kohaikaa)](https://github.com/KnlnKS/leetcode-stats)
