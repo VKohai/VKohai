@@ -15,3 +15,6 @@
 * Clean Architecture
 * CQRS Pattern
 * Dapper microORM
+
+## Leetcode stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Kohaikaa)](https://github.com/KnlnKS/leetcode-stats)
