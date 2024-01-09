@@ -13,8 +13,6 @@
 ## 「 🌱 I’m currently learning these things: 」
 * Domain Driven Design (DDD)
 * Clean Architecture
-* CQRS Pattern
-* Dapper microORM
 
 ## 「 LeetCode Stats 」
 [![Kohaikaa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://leetcode.com/VKohai/)
