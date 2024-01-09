@@ -17,4 +17,4 @@
 * Dapper microORM
 
 ## 「 LeetCode Stats 」
-[![Kohaikaa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Kohaikaa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://leetcode.com/VKohai/)
