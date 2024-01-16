@@ -13,7 +13,7 @@
 ## 「 🌱 I’m currently learning these things: 」
 * Clean Architecture
 * Finite State Machine
-* MAUI
+* .NET MAUI
 
 ## 「 LeetCode Stats 」
 [![Kohaikaa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://leetcode.com/VKohai/)
