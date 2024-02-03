@@ -12,7 +12,6 @@
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 「 🌱 I’m currently learning these things: 」
-* Clean Architecture
 * Finite State Machine
 * .NET MAUI
 
