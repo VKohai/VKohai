@@ -14,8 +14,7 @@
 * Finite State Machine
 * .NET MAUI
 * C++
-* Unreal Engine 5
-[![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine)](https://github.com/Kohaikaa)
+[![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-black?style=for-the-badge&logo=unrealengine)](https://github.com/Kohaikaa)
 
 ## 「 LeetCode Stats 」
 [![Kohaikaa's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://leetcode.com/VKohai/)
