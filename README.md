@@ -12,8 +12,8 @@
 
 ## 「 🌱 I’m currently learning these things: 」
 * Finite State Machine
-* .NET MAUI
 * C++
+* CMake
 
 [![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-black?style=for-the-badge&logo=unrealengine)](https://github.com/Kohaikaa)
 
