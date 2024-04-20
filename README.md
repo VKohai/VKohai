@@ -10,7 +10,9 @@
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 「 🌱 I’m currently learning these things: 」
-* Nothing, I Just Solve LeetCode Problems
+* Unreal Engine 5
+* C++
+* After Effects
 
 ## 「 LeetCode Stats 」
 [![VKohai's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://leetcode.com/VKohai/)
