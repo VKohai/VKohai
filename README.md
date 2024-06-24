@@ -1,5 +1,5 @@
 # Herzlich Willkommen! 👋
-
+I am an aspiring IT entrepreneur with a team of two developers, where I play the role of project manager, designer, and backend developer along with the main backend developer in our team.
 ## 「 I Speak 6 Languages 」
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Kohaikaa)
@@ -10,8 +10,8 @@
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 「 🌱 I’m currently learning these things: 」
-* Unreal Engine 5
-* C++
+* Rust (for blockchain development)
+* ASP.NET Web API
 * After Effects
 
 ## 「 LeetCode Stats 」
