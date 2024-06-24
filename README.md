@@ -12,7 +12,3 @@ I am an aspiring IT entrepreneur with a team of two developers, where I play the
 ## 「 🌱 I’m currently learning these things: 」
 * Rust (for blockchain development)
 * ASP.NET Web API
-* After Effects
-
-## 「 LeetCode Stats 」
-[![VKohai's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=VKohai&theme=dark)](https://leetcode.com/VKohai/)
