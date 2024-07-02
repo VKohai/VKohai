@@ -10,5 +10,5 @@ I am an aspiring IT entrepreneur with a team of two developers, where I play the
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/Kohaikaa)
 
 ## 「 🌱 I’m currently learning these things: 」
-* Rust (for blockchain development)
+* Vue.js
 * ASP.NET Web API
