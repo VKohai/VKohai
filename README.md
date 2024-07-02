@@ -12,3 +12,4 @@ I am an aspiring IT entrepreneur with a team of two developers, where I play the
 ## 「 🌱 I’m currently learning these things: 」
 * Vue.js
 * ASP.NET Web API
+* Golang
