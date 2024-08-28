@@ -2,9 +2,9 @@
 I am a web-designer & developer. I make beautiful and memorable web-sites with HTML, CSS, JS and ReactJS that impress your customers and make them buy more from you.
 
 Follow me on:
-https://pinterest.com/VKohai
-https://instagram.com/VKohai
-https://youtube.com/VladKohai
+* https://pinterest.com/VKohai
+* https://instagram.com/VKohai
+* https://youtube.com/VladKohai
 
 ## 「 I Speak 6 Languages 」
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
