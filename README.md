@@ -1,5 +1,11 @@
 # Herzlich Willkommen! 👋
-I am an aspiring IT entrepreneur with a team of two developers, where I play the role of project manager, designer, and backend developer along with the main backend developer in our team.
+I am a web-designer & developer. I make beautiful and memorable web-sites with HTML, CSS, JS and ReactJS that impress your customers and make them buy more from you.
+
+Follow me on:
+https://pinterest.com/VKohai
+https://instagram.com/VKohai
+https://youtube.com/VladKohai
+
 ## 「 I Speak 6 Languages 」
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Kohaikaa)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Kohaikaa)
@@ -11,5 +17,4 @@ I am an aspiring IT entrepreneur with a team of two developers, where I play the
 
 ## 「 🌱 I’m currently learning these things: 」
 * Vue.js
-* ASP.NET Web API
-* Golang
+* ReactJS
