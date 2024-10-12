@@ -1,9 +1,6 @@
 # Herzlich Willkommen! 👋
-I am a web-designer & developer. I make beautiful and memorable web-sites with HTML, CSS, JS and ReactJS that impress your customers and make them buy more from you.
-
-Follow me on:
-* https://instagram.com/VKohai
-* https://youtube.com/VladKohai
+I am a .NET & React developer. I'm developing my online language school where you will learn only to speak and understand foreign languages.
+I write about my progrss in my [Telegram Channel](http://t.me/VKohai_IT) (Rus). Follow it!
 
 ## 「 I Speak 8 Languages 」
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/VKohai)
