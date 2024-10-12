@@ -2,7 +2,6 @@
 I am a web-designer & developer. I make beautiful and memorable web-sites with HTML, CSS, JS and ReactJS that impress your customers and make them buy more from you.
 
 Follow me on:
-* https://pinterest.com/VKohai
 * https://instagram.com/VKohai
 * https://youtube.com/VladKohai
 
