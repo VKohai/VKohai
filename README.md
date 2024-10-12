@@ -7,8 +7,8 @@ Follow me on:
 
 ## 「 I Speak 7 Languages 」
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/VKohai)
-![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=JavaScript&style=flat&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black.svg?logo=typeScript&style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typeScript&style=flat&logoColor=white)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/VKohai)
 
 [![Russian](https://img.shields.io/badge/russian%20(Native)-black?style=for-the-badge&logo=russian)](https://github.com/VKohai)
