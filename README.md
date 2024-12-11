@@ -1,5 +1,5 @@
 # Herzlich Willkommen! 👋
-I am a .NET & React developer. I'm developing my online language school where you will learn only to speak and understand foreign languages.
+I am a .NET & React developer. I'm developing my mobile & web application of learning languages where you will learn only to speak and understand foreign languages.
 I write about my progrss in my [Telegram Channel](http://t.me/VKohai_IT) (Rus). Follow it!
 
 ## 「 I Speak 8 Languages 」
@@ -14,5 +14,7 @@ I write about my progrss in my [Telegram Channel](http://t.me/VKohai_IT) (Rus). 
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/VKohai)
 
 ## 「 🌱 I’m currently learning these things: 」
-* Vue.js
+* DDD
 * ReactJS
+* React Native
+* Golang
