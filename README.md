@@ -1,5 +1,5 @@
 # Herzlich Willkommen! 👋
-I am a .NET. I'm developing brand of learning languages where you will learn only to speak and understand foreign languages.
+I am a .NET developer for 6 years! I'm developing brand of learning languages where you will learn only to speak and understand foreign languages.
 I write about my progrss in my [Telegram Channel](http://t.me/VKohai_IT) (Rus). Follow it!
 
 ## 「 I Speak 7 Languages 」
