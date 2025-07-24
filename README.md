@@ -1,6 +1,4 @@
 # Herzlich Willkommen! 👋
-I am a .NET developer for 6 years! I'm developing brand of learning languages where you will learn only to speak and understand foreign languages.
-I write about my progrss in my [Telegram Channel](http://t.me/VKohai_IT) (Rus). Follow it!
 
 ## 「 I Speak 7 Languages 」
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/VKohai)
@@ -13,7 +11,7 @@ I write about my progrss in my [Telegram Channel](http://t.me/VKohai_IT) (Rus). 
 [![German](https://img.shields.io/badge/german%20(A2)-black?style=for-the-badge&logo=german)](https://github.com/VKohai)
 
 ## 「 🌱 I’m currently learning these things: 」
-* DDD
-* NextJS
+* gRPC, Kafka
+* Vue3 & Nuxt
 * Microservices & Docker
 * Golang
